@@ -16,3 +16,11 @@ Run the application:
     1. Change to the project directory
     2. Execute the php -S 127.0.0.1:8000 -t public command;
     3. Browse to the http://localhost:8000/ URL.
+
+
+php bin/console make:controller
+
+1) Forum
+2) Highlights
+3) Partner
+4) Recrutement
