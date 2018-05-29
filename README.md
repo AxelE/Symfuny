@@ -39,8 +39,12 @@ php bin/console make:migration
 
 Puis ajouter un email à ce même user avec les même commandes
 
+Cependant, la modification ne se fait pas en base; donc je fait la commande :
+
+php bin/console do:sc:up --force
 
 Test de la commande pour générer des pages pour Create Read Update Delete le User
 
 php bin/console make:crud Product
 
+le résultat est moche mais concluant : http://127.0.0.1:8000/user/
