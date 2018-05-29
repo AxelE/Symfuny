@@ -38,3 +38,9 @@ php bin/console make:entity
 php bin/console make:migration
 
 Puis ajouter un email à ce même user avec les même commandes
+
+
+Test de la commande pour générer des pages pour Create Read Update Delete le User
+
+php bin/console make:crud Product
+
