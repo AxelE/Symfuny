@@ -1,5 +1,7 @@
 # Projet symfuny
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 ## Informations
 
 This is a fun project of Symfony 4
