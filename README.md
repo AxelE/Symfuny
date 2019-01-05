@@ -50,3 +50,5 @@ Test de la commande pour générer des pages pour Create Read Update Delete le U
 php bin/console make:crud Product
 
 le résultat est moche mais concluant : http://127.0.0.1:8000/user/
+
+Looking if github is working
